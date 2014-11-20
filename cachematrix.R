@@ -1,5 +1,8 @@
 ## Note : It is assumed that the matrix supplied is always invertible.
 
+## Argument is passed in the form like this :
+## x <- makeCacheMatrix(matrix(c(1,2,3,1),2,2))
+
 ## This is a special function which creates a special vector and is used to
 ## set the value of matrix
 ## get the value of matrix
